@@ -1,6 +1,9 @@
 ### Olá pessoinhas queridas 🖤
 
-My name is Nicoly Ber 🧚‍♀️
+My name is Nicoly Bernardino 🧚‍♀️
 
  - Sou linda
- - Estou estudando na alura
+ - Estou estudando na Alura
+ - Estou me desenvolvendo na linguagem JavaScript
+
+@nicbernardino_
